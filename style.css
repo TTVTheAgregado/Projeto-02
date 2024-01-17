@@ -8,7 +8,7 @@ body {
   width: 1000px;
 }
 
-header {
+nav {
   display: flex;
   justify-content: space-between;
   align-items: center;
